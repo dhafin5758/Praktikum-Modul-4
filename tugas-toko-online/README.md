@@ -21,7 +21,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
-Akun de,p: `budi` / `rahasia123`, `siti` / `rahasia456`.
+Akun demo: `budi` / `rahasia123`, `siti` / `Admin123!`.
 
 ## Fitur
 
